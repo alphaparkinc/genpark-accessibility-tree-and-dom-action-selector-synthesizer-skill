@@ -1,0 +1,7 @@
+[project]
+name = "genpark-accessibility-tree-and-dom-action-selector-synthesizer-skill"
+version = "1.0.0"
+description = "Converts ARIA accessibility nodes and DOM elements into deterministic CSS/ARIA action selectors for browser agents"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
